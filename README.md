@@ -108,6 +108,7 @@ endmodule
 	linux:/> nclaunch&                 // On subsequent calls to NCVERILOG
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
+
 ![Screenshot (29)](https://github.com/user-attachments/assets/99881fcb-20b5-4dd8-9dc5-bd2020f974f8)
 ### Fig 3: Setting Multi-step simulation
 
@@ -135,6 +136,7 @@ Click the cds.lib file and save the file by clicking on Save option
 	Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed.
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
+
 ![image](https://github.com/user-attachments/assets/75f36cc7-bec1-4c20-8ef2-bea85e8d4425)
 
 ### Fig 6: Nclaunch Window
