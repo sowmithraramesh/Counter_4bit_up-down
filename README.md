@@ -137,7 +137,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
-![image](https://github.com/user-attachments/assets/75f36cc7-bec1-4c20-8ef2-bea85e8d4425)
+![image](https://github.com/user-attachments/assets/407fbe02-3e1a-4c18-b95f-113dafa790a7)
 
 ### Fig 6: Nclaunch Window
 
@@ -162,7 +162,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
-![Screenshot 2024-11-24 143551](https://github.com/user-attachments/assets/bfd1316c-cca1-4842-adb7-7a74d8e992c4)
+![WhatsApp Image 2024-12-09 at 17 16 48_a0da049a](https://github.com/user-attachments/assets/d68ea607-0b50-40be-bc65-df0806e92523)
 
 
 ## Fig 7: Compiled database in worklib
